@@ -1,5 +1,5 @@
 import java.util.Random
-var dssv = mutableListOf("Nguyễn Văn Á", "Hoàng Văn Nam", "Tùng Hoàng")
+var dssv = mutableListOf("Nguyễn Văn Ấ", "Hoàng Văn Nam", "Tùng Hoàng")
 fun randomLop() : String {
     val lop = arrayOf ("21JIT", "21BA", "21IR")
     return lop[Random().nextInt(lop.size)]
