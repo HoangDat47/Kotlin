@@ -36,6 +36,7 @@ class Choice {
 }
 
 fun main() {
+    makeDecorations()
     println(Choice.name)
     Choice.showDescription("pick")
     Choice.showDescription("selection")
